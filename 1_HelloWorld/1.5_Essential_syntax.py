@@ -7,7 +7,7 @@ print("abc")
 print("abc",
       "def")
 
-# It's also possible to execute multiple statements in one line (note ; as separator)
+# It's also possible to execute multiple statements in one line (note the ; as separator)
 a=1; b=2; c=3
 
 print(a, b, c)
