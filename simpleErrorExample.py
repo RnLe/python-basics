@@ -9,4 +9,5 @@ except ZeroDivisionError:
     sys.exit(1)
 finally:
     print("This will always execute")
-    
+
+# If an error occurs, the program will exit
